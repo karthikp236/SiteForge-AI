@@ -25,7 +25,7 @@ import {
   GitBranch,
 } from "lucide-react";
 
-import GitHubUploadModal from "../components/modal/GitHubUploadModal";
+import GitHubUploadModal from "../components/modal/GithubUploadModal";
 import VercelDeployModal from "../components/modal/VercelDeployModal";
 import { useAuth } from "../context/AuthContext";
 
